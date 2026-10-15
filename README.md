@@ -1,4 +1,4 @@
-# jafuta-platform[jafuta-platform.html](https://github.com/user-attachments/files/33483382/jafuta-platform.html)
+[index.html](https://github.com/user-attachments/files/33495354/index.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -300,7 +300,7 @@ import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, si
 import { getFirestore, collection, doc, setDoc, getDoc, getDocs, addDoc, query, where, orderBy, onSnapshot, serverTimestamp, deleteDoc, updateDoc } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCht9ZYR53YurvKmYj_j8QriXwQiUU0OVI",
+  apiKey: "AIzaSyCht9ZYR53YUrvKmYj_j8QriXwQiUU0OVI",
   authDomain: "jafuta-foundation.firebaseapp.com",
   projectId: "jafuta-foundation",
   storageBucket: "jafuta-foundation.firebasestorage.app",
